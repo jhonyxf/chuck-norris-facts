@@ -1,5 +1,9 @@
 # ChuckNorrisFacts
 
+GitHub page for 'Chuck Norris Facts' and the corresponding blog post found [here](https://nathanpickard.wordpress.com/2019/09/16/lets-use-angular-console/)
+
+Live demo can be found [here](d3eneqrgz26ovv.cloudfront.net)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
 ## Development server
