@@ -10,6 +10,6 @@ export class FactsService {
   constructor(private httpClient: HttpClient) { }
 
   getChuckNorrisFact() {
-    return this.httpClient.get('https://api.chucknorris.io/jokes/random?category=science');
+    return this.httpClient.get('https://api.chucknorris.io/jokes/random?category=dev');
   }
 }
